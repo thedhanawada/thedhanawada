@@ -8,3 +8,5 @@ And, I am very keen on nurturing the culture of **Innovation** within an enterpr
 
 - Postgraduation Study at [The University of Melbourne](https://www.unimelb.edu.au/) and Director of Marketing at [Equity Research Association](http://eraunimelb.org.au/)
 
+![Alt Text](https://media.giphy.com/media/143vPc6b08locw/giphy.gif)
+
