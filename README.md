@@ -1,8 +1,6 @@
 # Hola!
 
-Driven by an entrepreneurial spirit and inspired by **[Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)**, I am up for sale to build new business opportunities and solve challenges in an enterprise. I empathize with the experience of the customer and keep their ease of use and satisfaction a focus. 
-
-And, I am very keen on nurturing the culture of **Innovation** within an enterprise through various schools of thought
+Postgraduate Student of Information Technology with more than five years of professional experience in the retail and supply chain technological landscape. Positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups and legacy enterprises
 
 # My Current Affairs
 
