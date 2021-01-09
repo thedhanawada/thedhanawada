@@ -6,8 +6,6 @@ Professionally, for the last five years, he has spent time architecting technica
 
 Nirmal loves Computers, Psychology and Philosophy. Twenty years of living with family comes up with its own advantages. He has had the opportunity to learn cooking from the FamilyChef, his Mother. Thanks to her, he can now cook amazing Indian food.
 
-Nirmal is currently progressing towards his postgraduation at the University of Melbourne, majoring in Computing. He also heads the Marketing team at Equity Research Association and is a store coordinator at Red Cross. He also part of the Project Management team at FoxG1. Nirmal is deeply committed to giving back to the community and strongly believes in the impact of a small change in society.
-
 # My Current Affairs
 
 - Postgraduation Study at [The University of Melbourne](https://www.unimelb.edu.au/)
