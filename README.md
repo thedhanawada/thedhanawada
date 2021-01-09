@@ -1,4 +1,4 @@
-# Vanakkam (Hello)!
+# வணக்கம் ~ Vanakkam (Hello)!
 
 Postgraduate Student of Information Technology with more than five years of professional experience in the retail and supply chain technological landscape. Positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups and legacy enterprises
 
