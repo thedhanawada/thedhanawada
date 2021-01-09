@@ -1,6 +1,12 @@
 # வணக்கம் ~ Vanakkam (Hello)!
 
-Postgraduate Student of Information Technology with more than five years of professional experience in the retail and supply chain technological landscape. Positioned to contribute significantly in generating innovative market possibilities in enterprises and solve technological challenges. Expertise in collaborating with academia, in-house growth teams, open-source technology stacks, early-stage startups and legacy enterprises
+Nirmal was born and raised in Pondicherry, a small town on the Southeast coast of India. After spending the first twenty years of his life living and getting educated in his hometown, Nirmal joined TCS Retail Innovation Lab and moved across Hyderabad and Chennai. After working extensively on several retail projects, Nirmal joined L Brands at Bangalore in their Enterprise Architecture and Applied Innovation Team and has worked with specialty retailer brands like Victoria Secret and Bath and Body Works.
+
+Professionally, for the last five years, he has spent time architecting technical solutions for business challenges and has collaborated with startups, academia, research groups and has had the opportunity to meet and learn from amazing minds.
+
+Nirmal loves Computers, Psychology and Philosophy. Twenty years of living with family comes up with its own advantages. He has had the opportunity to learn cooking from the FamilyChef, his Mother. Thanks to her, he can now cook amazing Indian food.
+
+Nirmal is currently progressing towards his postgraduation at the University of Melbourne, majoring in Computing. He also heads the Marketing team at Equity Research Association and is a store coordinator at Red Cross. He also part of the Project Management team at FoxG1. Nirmal is deeply committed to giving back to the community and strongly believes in the impact of a small change in society.
 
 # My Current Affairs
 
