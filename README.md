@@ -14,5 +14,13 @@ Nirmal loves Computers, Psychology and Philosophy. Twenty years of living with f
 - Store Coordinator at [Red Cross](https://www.redcross.org.au/)
 - Project Management at [FoxG1 Foundation](https://foxg1.org.au/)
 
+# History
+
+- Web Interface for Richmond Fellowship Society
+- Bachelor of Technology at Pondicherry University
+- Senior Technology Analyst at L Brands (Mast Global)
+- Assistant System Engineer at Tata Consultancy Services
+
+
 ![Alt Text](https://media.giphy.com/media/143vPc6b08locw/giphy.gif)
 
