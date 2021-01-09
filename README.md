@@ -4,7 +4,11 @@ Postgraduate Student of Information Technology with more than five years of prof
 
 # My Current Affairs
 
-- Postgraduation Study at [The University of Melbourne](https://www.unimelb.edu.au/) and Director of Marketing at [Equity Research Association](http://eraunimelb.org.au/)
+- Postgraduation Study at [The University of Melbourne](https://www.unimelb.edu.au/)
+- Director of Marketing at [Equity Research Association](http://eraunimelb.org.au/)
+- Online Marketing Lead at [Teaching for Impact](https://www.teachingforimpact.org/)
+- Store Coordinator at [Red Cross](https://www.redcross.org.au/)
+- Project Management at [FoxG1 Foundation](https://foxg1.org.au/)
 
 ![Alt Text](https://media.giphy.com/media/143vPc6b08locw/giphy.gif)
 
