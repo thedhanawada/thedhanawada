@@ -9,14 +9,14 @@ Nirmal loves Computers, Psychology and Philosophy. Twenty years of living with f
 # My Current Affairs
 
 - Postgraduation Study at [The University of Melbourne](https://www.unimelb.edu.au/)
-- Director of Marketing at [Equity Research Association](http://eraunimelb.org.au/) - <strong>Not for Profit</strong>
-- Online Marketing Lead at [Teaching for Impact](https://www.teachingforimpact.org/) - <strong>Not for Profit</strong>
+- Director of Marketing at [Teaching for Impact](https://www.teachingforimpact.org/) - <strong>Not for Profit</strong>
 - Store Coordinator at [Red Cross](https://www.redcross.org.au/) - <strong>Not for Profit</strong>
 - Project Management at [FoxG1 Foundation](https://foxg1.org.au/) - <strong>Not for Profit</strong>
 
 # History
 
 - Web Interface for Richmond Fellowship Society - <strong>Not for Profit</strong>
+- Director of Marketing at [Equity Research Association](http://eraunimelb.org.au/) - <strong>Not for Profit</strong>
 - Bachelor of Technology at Pondicherry University
 - Senior Technology Analyst at L Brands (Mast Global) - <strong>For Profit</strong>
 - Assistant System Engineer at Tata Consultancy Services - <strong>For Profit</strong>
