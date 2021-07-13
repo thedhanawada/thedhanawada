@@ -11,6 +11,7 @@ Nirmal loves Computers, Psychology and Philosophy. Twenty years of living with f
 - Postgraduation Study at [The University of Melbourne](https://www.unimelb.edu.au/) - <strong>For the thirst for knowledge</strong>
 - Director of Marketing and Communications at [Teaching for Impact](https://www.teachingforimpact.org/) - <strong>Not for Profit</strong>
 - Store Coordinator at [Red Cross](https://www.redcross.org.au/) - <strong>Not for Profit</strong>
+- Software Research Intern at [WEHI](https://www.wehi.edu.au/)  - <strong>For the thirst for knowledge</strong>
 
 # History
 
