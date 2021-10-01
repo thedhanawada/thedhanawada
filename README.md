@@ -1,4 +1,4 @@
-# வணக்கம் ~ Vanakkam (Hello)!
+# வணக்கம் ~ Vanakkam!
 
 Nirmal was born and raised in Pondicherry, a small town on the Southeast coast of India. After spending the first twenty years of his life living and getting educated in his hometown, Nirmal joined TCS Retail Innovation Lab and moved across Hyderabad and Chennai. After working extensively on several retail projects, Nirmal joined L Brands at Bangalore in their Enterprise Architecture and Applied Innovation Team and has worked with specialty retailer brands like Victoria Secret and Bath and Body Works.
 
