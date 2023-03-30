@@ -1,10 +1,10 @@
 # வணக்கம் ~ Vanakkam!
 
-Nirmal was born and raised in Pondicherry, a small town on the Southeast coast of India. After spending the first twenty years of his life living and getting educated in his hometown, Nirmal joined TCS Retail Innovation Lab and moved across Hyderabad and Chennai. After working extensively on several retail projects, Nirmal joined L Brands at Bangalore in their Enterprise Architecture and Applied Innovation Team and has worked with specialty retailer brands like Victoria Secret and Bath and Body Works.
+Nirmal was born and raised in Pondicherry, a quaint town on the Southeast coast of India. After working extensively on several retail projects at TCS Retail Innovation Lab across Hyderabad and Chennai, Nirmal joined L Brands in Bangalore to work with specialty retailer brands like Victoria's Secret and Bath and Body Works as part of their Enterprise Architecture and Applied Innovation Team. He completed his master's degree at the University of Melbourne after working for L Brands.
 
-Professionally, for the last five years, he has spent time architecting technical solutions for business challenges and has collaborated with startups, academia, research groups and has had the opportunity to meet and learn from amazing minds.
+Over the past five years, Nirmal has focused on architecting technical solutions to solve business challenges. He has collaborated with startups, academia, and research groups, gaining invaluable insights from amazing minds in the process.
 
-Nirmal loves Computers, Psychology and Philosophy. Twenty years of living with family comes up with its own advantages. He has had the opportunity to learn cooking from the FamilyChef, his Mother. Thanks to her, he can now cook amazing Indian food.
+Outside of work, Nirmal is passionate about computers, psychology, and philosophy. Growing up in a family environment has had its advantages, and he learned how to cook amazing Indian food from his mother, who was the family chef
 
 # My Current Affairs
 
